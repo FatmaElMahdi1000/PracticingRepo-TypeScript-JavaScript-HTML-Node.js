@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<head>
+    <title> Student Info </title>
+    <meta charset = "UTF-8">
+    <meta name= "viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css">
+    <script type="module" src="./index.ts"></script>
+</head>
+<html lang="en">
+<body>
+
+<main class="mainContent">
+    <header>
+        <h1 id="info">Student Information</h1>
+        <p id="subtext">Enter student details and add them to the records.</p>
+    </header>
+
+    <section class="form-card">
+        <h2>Add a Student</h2>
+
+        <form id="form">
+            <div class="input group">
+                <label for="name"> Name: </label>
+                <input type="text"  required id="name" minlength="3" placeholder="Enter your name">
+                <br>
+                <br>
+            </div>
+
+            <div class="input group">
+                <label for="age"> Age: </label>
+                <input type="number" required  minlength="6" id="age" placeholder="Enter your age">
+
+                <br>
+                <br>
+                </div>
+
+            <button  type="submit" id="submit-button">  Add Student </button>
+
+        </form>
+    </section>
+
+    <section >
+    <br>
+    <br>
+        <table id="studentsTable">
+            <thead>
+            <tr>
+            <th> Student ID# </th>
+            <th>Student Name </th>
+            <th> Student Age </th>
+            <tr>
+        </thead>
+            <!-- this is where we'll add rows of data by submitting -->
+            <tbody id="tableBody">
+            </tbody>
+    </table >
+
+
+
+    </section>
+</main>
+
+</body>
+</html>
