@@ -1,0 +1,162 @@
+[
+  {
+    "invoiceId": "4231575000000092101",
+    "lastModified": "2026-10-05T10:00:00Z",
+    "invoice": {
+      "invoice_id": "4231575000000092101",
+      "invoice_number": "INV-000101",
+      "customer_name": "Acme Corp",
+      "status": "Closed",
+      "date": "2026-10-01",
+      "due_date": "2026-10-31",
+      "last_payment_date": "2026-10-04",
+      "total": 1500.00,
+      "tax_withheld_amount": 0,
+      "balance": 0.00
+    }
+  },
+  {
+    "invoiceId": "4231575000000092102",
+    "lastModified": null,
+    "invoice": {
+      "invoice_id": "4231575000000092102",
+      "invoice_number": "INV-000102",
+      "customer_name": "Globex Corporation",
+      "status": "Open",
+      "date": "2026-10-02",
+      "due_date": "2026-11-02",
+      "last_payment_date": "2026-10-02",
+      "total": 2500.50,
+      "tax_withheld_amount": 100.00,
+      "balance": 2500.50
+    }
+  },
+  {
+    "invoiceId": "4231575000000092103",
+    "lastModified": "2026-09-15T14:30:00Z",
+    "invoice": {
+      "invoice_id": "4231575000000092103",
+      "invoice_number": "INV-000103",
+      "customer_name": "Stark Industries",
+      "status": "Overdue",
+      "date": "2026-08-15",
+      "due_date": "2026-09-14",
+      "last_payment_date": "2026-08-15",
+      "total": 5000.00,
+      "tax_withheld_amount": 250.00,
+      "balance": 3000.00
+    }
+  },
+  {
+    "invoiceId": "4231575000000092104",
+    "lastModified": null,
+    "invoice": {
+      "invoice_id": "4231575000000092104",
+      "invoice_number": "INV-000104",
+      "customer_name": "Wayne Enterprises",
+      "status": "Closed",
+      "date": "2026-09-10",
+      "due_date": "2026-10-10",
+      "last_payment_date": "2026-09-28",
+      "total": 1200.00,
+      "tax_withheld_amount": 50.00,
+      "balance": 0.00
+    }
+  },
+  {
+    "invoiceId": "4231575000000092105",
+    "lastModified": null,
+    "invoice": {
+      "invoice_id": "4231575000000092105",
+      "invoice_number": "INV-000105",
+      "customer_name": "Initech LLC",
+      "status": "Open",
+      "date": "2026-10-05",
+      "due_date": "2026-11-05",
+      "last_payment_date": "2026-10-05",
+      "total": 450.00,
+      "tax_withheld_amount": 0,
+      "balance": 450.00
+    }
+  },
+  {
+    "invoiceId": "4231575000000092106",
+    "lastModified": "2026-10-06T09:15:00Z",
+    "invoice": {
+      "invoice_id": "4231575000000092106",
+      "invoice_number": "INV-000106",
+      "customer_name": "Massive Dynamic",
+      "status": "Void",
+      "date": "2026-07-01",
+      "due_date": "2026-07-31",
+      "last_payment_date": "2026-07-01",
+      "total": 850.00,
+      "tax_withheld_amount": 0,
+      "balance": 850.00
+    }
+  },
+  {
+    "invoiceId": "4231575000000092107",
+    "lastModified": null,
+    "invoice": {
+      "invoice_id": "4231575000000092107",
+      "invoice_number": "INV-000107",
+      "customer_name": "Cyberdyne Systems",
+      "status": "Closed",
+      "date": "2026-06-10",
+      "due_date": "2026-07-10",
+      "last_payment_date": "2026-07-05",
+      "total": 10000.00,
+      "tax_withheld_amount": 500.00,
+      "balance": 0.00
+    }
+  },
+  {
+    "invoiceId": "4231575000000092108",
+    "lastModified": "2026-10-08T16:20:00Z",
+    "invoice": {
+      "invoice_id": "4231575000000092108",
+      "invoice_number": "INV-000108",
+      "customer_name": "Oscorp Industries",
+      "status": "Overdue",
+      "date": "2026-08-01",
+      "due_date": "2026-09-01",
+      "last_payment_date": "2026-08-01",
+      "total": 3200.00,
+      "tax_withheld_amount": 150.00,
+      "balance": 1200.00
+    }
+  },
+  {
+    "invoiceId": "4231575000000092109",
+    "lastModified": null,
+    "invoice": {
+      "invoice_id": "4231575000000092109",
+      "invoice_number": "INV-000109",
+      "customer_name": "Stark Industries",
+      "status": "Closed",
+      "date": "2026-09-20",
+      "due_date": "2026-10-20",
+      "last_payment_date": "2026-10-01",
+      "total": 750.25,
+      "tax_withheld_amount": 25.00,
+      "balance": 0.00
+    }
+  },
+  {
+    "invoiceId": "4231575000000092110",
+    "lastModified": null,
+    "invoice": {
+      "invoice_id": "4231575000000092110",
+      "invoice_number": "INV-000110",
+      "customer_name": "Acme Corp",
+      "status": "Open",
+      "date": "2026-10-08",
+      "due_date": "2026-11-08",
+      "last_payment_date": "2026-10-08",
+      "total": 330.00,
+      "tax_withheld_amount": 0,
+      "balance": 330.00
+    }
+  }
+]

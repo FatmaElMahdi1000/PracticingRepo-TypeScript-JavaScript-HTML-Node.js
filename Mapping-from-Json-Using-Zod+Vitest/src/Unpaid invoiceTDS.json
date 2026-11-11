@@ -1,0 +1,15 @@
+{
+  "invoiceId": "4231575000000092051",
+  "lastModified": null,
+  "invoice": {
+    "invoice_id": "4231575000000092051",
+    "invoice_number": "INV-000051",
+    "customer_name": "Cicon Engineers Pvt Ltd",
+    "status": "Overdue",
+    "date": "2026-10-04",
+    "due_date": "2026-11-03",
+    "total": 162.4,
+    "tax_amount_withheld": 2.8,
+    "balance": 162.4
+  }
+}

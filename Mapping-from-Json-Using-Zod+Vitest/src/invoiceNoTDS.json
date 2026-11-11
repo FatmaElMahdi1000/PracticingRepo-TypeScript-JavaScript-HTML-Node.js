@@ -1,0 +1,16 @@
+{
+  "invoiceId": "4231575000000092099",
+  "lastModified": null,
+  "invoice": {
+    "invoice_id": "4231575000000092099",
+    "invoice_number": "INV-000099",
+    "customer_name": "No TDS Co",
+    "status": "Closed",
+    "date": "2026-10-04",
+    "due_date": "2026-11-03",
+    "last_payment_date": "2026-07-08",
+    "total": 100.0,
+    "tax_amount_withheld": 0,
+    "balance": 0.0
+  }
+}
