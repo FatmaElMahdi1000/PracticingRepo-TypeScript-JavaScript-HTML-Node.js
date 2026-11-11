@@ -1,0 +1,53 @@
+#info
+{
+    font-family: "Diwani Bent";
+    font-size: 20px;
+    font-style: italic;
+    color: blueviolet;
+    display: inline-block;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    background: aquamarine;
+}
+
+th, td
+{
+    font-family: "Diwani Bent" ;
+    border-style: dashed;
+    border-width: thin;
+    padding-block: 8px;
+    padding-left: 8px;
+    padding-right: 10px;
+
+}
+
+#submit-button
+{
+   font-family: "Diwani Bent";
+    font-size: 12px;
+    font-size: 14px;
+    background: azure;
+    border-style: solid;
+    border-color: cadetblue;
+}
+
+#studentsTable
+{
+    font-family: "Diwani Bent" ;
+    border-style: dotted;
+    border-width: thin;
+    padding-block: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#tableBody
+{
+    font-family: "Diwani Bent" ;
+    border-style: dotted;
+    border-width: thin;
+    padding-block: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
